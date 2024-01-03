@@ -1,0 +1,14 @@
+.bookmarks{
+    border-radius: 8px;
+    background: rgba(96, 71, 236, 0.10);
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bookmarks h1{
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 700;
+}

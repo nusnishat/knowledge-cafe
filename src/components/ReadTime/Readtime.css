@@ -1,0 +1,16 @@
+.read-time-spent{
+    margin-top: 40px;
+    height: 80px; 
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+}
+.read-time-spent h1{
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

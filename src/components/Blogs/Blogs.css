@@ -1,0 +1,13 @@
+.blogs-container{
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-bottom: 50px;
+}
+.blog-container{
+    margin: 8px;
+}
+.sidebar-container{
+    margin: 8px;
+}

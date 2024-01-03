@@ -1,0 +1,14 @@
+.header{
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 50px;
+}
+.header-info{
+    display: flex;
+    justify-content: space-between;
+}
+.header-name{
+    font-family: Exo 2;
+    font-size: 20px;
+    font-weight: 700;
+}
